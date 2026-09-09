@@ -6,3 +6,8 @@ chromadb
 gradio
 python-dotenv
 ragas
+reportlab
+langchain-text-splitters
+langchain-chroma
+sentence-transformers
+langchain-huggingface
