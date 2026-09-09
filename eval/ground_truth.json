@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q1",
+    "question": "What productivity increase did asynchronous-first teams show?",
+    "expected_answer": "23% more features shipped per quarter",
+    "expected_keywords": ["23%", "features"],
+    "source_filename": "research_paper.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q2",
+    "question": "What productivity gain did startup-size teams see compared to enterprise teams?",
+    "expected_answer": "Startups saw 31% gains, enterprise teams saw 11% gains",
+    "expected_keywords": ["31%", "11%"],
+    "source_filename": "research_paper.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q3",
+    "question": "How many distributed software engineering teams were studied?",
+    "expected_answer": "40 teams",
+    "expected_keywords": ["40"],
+    "source_filename": "research_paper.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q4",
+    "question": "What was total company revenue in Q3 2026?",
+    "expected_answer": "$4.82 million",
+    "expected_keywords": ["4.82", "million"],
+    "source_filename": "quarterly_report.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q5",
+    "question": "Which region had the highest year-over-year growth?",
+    "expected_answer": "Asia Pacific, +22%",
+    "expected_keywords": ["Asia Pacific", "22%"],
+    "source_filename": "quarterly_report.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q6",
+    "question": "What was the margin on Product C, the add-on pack?",
+    "expected_answer": "51%",
+    "expected_keywords": ["51%"],
+    "source_filename": "quarterly_report.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q7",
+    "question": "What is the one-time home office setup stipend?",
+    "expected_answer": "$500",
+    "expected_keywords": ["500"],
+    "source_filename": "employee_handbook_excerpt.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q8",
+    "question": "How many days of onboarding must an employee complete before requesting remote status?",
+    "expected_answer": "90 days",
+    "expected_keywords": ["90"],
+    "source_filename": "employee_handbook_excerpt.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "q9",
+    "question": "What is the best recipe for chocolate cake?",
+    "expected_answer": "I don't know based on the provided document.",
+    "expected_keywords": ["don't know"],
+    "source_filename": null,
+    "expected_page": null
+  }
+]
