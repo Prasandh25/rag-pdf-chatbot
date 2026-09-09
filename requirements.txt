@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+chromadb
+gradio
+python-dotenv
+ragas
